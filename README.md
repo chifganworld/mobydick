@@ -8,7 +8,7 @@ MobyDick is an Asterisk based Software VoIP PBX that provides a user friendly an
 
 ## What can you find on our [github account](https://github.com/pascomnet)?
 - Our opensourced code
-- Examples on how to use mobydick api
+- Examples on how to use the mobydick api
 
 ## Where can you find us
 - If you want to read more: https://pascom.net/
